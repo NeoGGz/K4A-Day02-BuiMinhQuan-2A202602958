@@ -6,7 +6,7 @@
 
 - Họ và tên: Bùi Minh Quân
 - Mã học viên: 2A202602958
-- Nhóm: Nhóm 02 — Actionable Math & Engineering Spec Sheet
+- Nhóm: Nhóm T1 - ZoneA
 - Candidate problem nhóm chọn: Chuyển đổi paper và tài liệu kỹ thuật tiếng Anh thành phương án triển khai thực tế.
 
 ---
